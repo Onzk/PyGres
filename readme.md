@@ -1,6 +1,4 @@
-<h1 style="font-size:42px; text-align:center">
-------/ <span style="color:#ffcc00">Py</span><span style="color:#6699ff">Gres</span> /------
-</h1>
+# PyGres
 <p align="center"><br target="_blank"><img src="./assets/logo.png"  alt="Pygres Logo"/>
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
