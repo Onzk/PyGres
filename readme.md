@@ -1,4 +1,4 @@
-# PyGres
+# PyGres - GROUPE 4
 <p align="center"><br target="_blank"><img src="./assets/logo.png"  alt="Pygres Logo"/>
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
